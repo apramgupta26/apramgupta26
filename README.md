@@ -20,8 +20,40 @@ Rather than collecting technologies, I enjoy building complete deployment workfl
 
 - 🚀 Building cloud-native applications
 - 🐳 Improving Docker and containerization skills
-- ☁️ Exploring AWS through hands-on deployments
+- ☁️ Exploring AWS through hands-on deployments | Deploying full-stack applications on AWS
 - ⚙️ Automating deployments with GitHub Actions
 - 🐧 Strengthening Linux fundamentals
 
 ---
+
+## 💡 Engineering Philosophy
+
+I believe the best way to learn technology is by building real projects.
+
+Rather than studying tools in isolation, I enjoy understanding how different technologies work together—from writing application code to containerizing services, automating deployments, and running applications in the cloud.
+
+Every project I build is an opportunity to improve my understanding of software delivery, infrastructure, and modern DevOps practices.
+
+---
+
+## 🌱 Learning Journey
+
+My current roadmap focuses on strengthening the fundamentals before moving to advanced DevOps technologies.
+
+### Currently Working With
+
+- AWS
+- Docker & Docker Compose
+- Linux
+- Git & GitHub
+- GitHub Actions
+- Spring Boot
+- Angular
+- MySQL
+
+### Next on My Roadmap
+
+- Kubernetes
+- Terraform
+- Jenkins
+- Monitoring & Observability
