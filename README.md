@@ -11,6 +11,8 @@ Computer Science Engineering student building cloud-native applications, automat
 - ⚙️ Automating deployments with CI/CD pipelines
 - 🐧 Managing Linux-based environments
 
+<br>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -27,81 +29,34 @@ Rather than collecting technologies, I enjoy building complete deployment workfl
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Infrastructure
-<p>
+**☁️ Cloud & Infrastructure**
+<br>
 <img src="https://skillicons.dev/icons?i=aws,linux" />
-</p>
 
-### 🚀 DevOps & Automation
-<p>
+**🚀 DevOps & Automation**
+<br>
 <img src="https://skillicons.dev/icons?i=docker,githubactions,git,nginx" />
-</p>
 
-### 💻 Languages
-<p>
+**💻 Languages**
+<br>
 <img src="https://skillicons.dev/icons?i=bash,python" />
-</p>
 
-### 🌐 Full Stack Development
-<p>
+**🌐 Full Stack Development**
+<br>
 <img src="https://skillicons.dev/icons?i=angular,spring,mysql" />
-</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=apramgupta26&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=apramgupta26&theme=transparent&hide_border=true" height="180"/>
-</p>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=apramgupta26&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=apramgupta26&theme=transparent&hide_border=true" width="100%"/>
 
 ---
-
-## 🚀 Featured Projects
-
-### ☁️ Enterprise 3-Tier Application Deployment on AWS
-
-- Angular frontend
-- Spring Boot REST API backend
-- MySQL database
-- Docker & Docker Compose
-- Nginx reverse proxy
-- GitHub Actions CI/CD
-- AWS EC2 deployment
-
-
-### 🐳 Dockerized Multi-Container Application
-
-- Containerized frontend, backend, and database services
-- Docker networking and volumes
-- Environment-based configuration
-- Nginx reverse proxy setup
-
-
-### 🔄 CI/CD Pipeline Automation
-
-- Automated Docker image build workflow
-- GitHub Actions integration
-- Container image publishing using GHCR
-- Automated deployment workflow
-
-</td>
-<td width="50%" valign="top">
 
 ## 📈 GitHub Activity
 
-[![Apram's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=apramgupta26&theme=tokyo-night)](https://github.com/apramgupta26)
-
----
-
-## 🌱 Currently Learning
-
-- Kubernetes
-- Terraform
-- AWS ECS & EKS
-- Monitoring with Prometheus & Grafana
-- Infrastructure as Code (IaC)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apramgupta26&theme=tokyo-night" width="100%"/>
 
 ---
 
@@ -112,6 +67,35 @@ Rather than collecting technologies, I enjoy building complete deployment workfl
 - ☁️ Exploring AWS through hands-on deployments | Deploying full-stack applications on AWS
 - ⚙️ Automating deployments with GitHub Actions
 - 🐧 Strengthening Linux fundamentals
+
+</td>
+<td width="50%" valign="top">
+
+## 🚀 Featured Projects
+
+**☁️ Enterprise 3-Tier Application Deployment on AWS**
+
+- Angular frontend
+- Spring Boot REST API backend
+- MySQL database
+- Docker & Docker Compose
+- Nginx reverse proxy
+- GitHub Actions CI/CD
+- AWS EC2 deployment
+
+**🐳 Dockerized Multi-Container Application**
+
+- Containerized frontend, backend, and database services
+- Docker networking and volumes
+- Environment-based configuration
+- Nginx reverse proxy setup
+
+**🔄 CI/CD Pipeline Automation**
+
+- Automated Docker image build workflow
+- GitHub Actions integration
+- Container image publishing using GHCR
+- Automated deployment workflow
 
 ---
 
@@ -129,7 +113,7 @@ Every project I build is an opportunity to improve my understanding of software 
 
 My current roadmap focuses on strengthening the fundamentals before moving to advanced DevOps technologies.
 
-### Currently Working With
+**Currently Working With**
 
 - AWS
 - Docker & Docker Compose
@@ -140,33 +124,26 @@ My current roadmap focuses on strengthening the fundamentals before moving to ad
 - Angular
 - MySQL
 
-### Next on My Roadmap
+**Next on My Roadmap**
 
 - Kubernetes
 - Terraform
 - Jenkins
-- Monitoring & Observability
-
----
-
-## 📫 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/apramgupta26">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-<a href="https://github.com/apramgupta26">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-</p>
-
----
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=apramgupta26&color=blue)
+- AWS ECS & EKS
+- Monitoring with Prometheus & Grafana
+- Infrastructure as Code (IaC)
 
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+## 📫 Connect With Me
+
+<a href="https://www.linkedin.com/in/apramgupta26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/apramgupta26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
