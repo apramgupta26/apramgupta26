@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Apram%20Gupta&fontSize=70" />
+
 # Hi, I'm Apram Gupta 👋
 
 ### 🚀 DevOps & Cloud Engineering Enthusiast
