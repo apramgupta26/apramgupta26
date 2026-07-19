@@ -16,6 +16,28 @@ Rather than collecting technologies, I enjoy building complete deployment workfl
 
 ---
 
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=aws,linux" />
+</p>
+
+### 🚀 DevOps & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,nginx" />
+</p>
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=bash,python" />
+</p>
+
+### 🌐 Full Stack Development
+<p>
+<img src="https://skillicons.dev/icons?i=angular,spring,mysql" />
+</p>
+
 ## 🎯 Current Focus
 
 - 🚀 Building cloud-native applications
