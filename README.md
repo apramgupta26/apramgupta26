@@ -48,6 +48,36 @@ Rather than collecting technologies, I enjoy building complete deployment workfl
 
 ---
 
+## 🚀 Featured Projects
+
+### ☁️ Enterprise 3-Tier Application Deployment on AWS
+
+- Angular frontend
+- Spring Boot REST API backend
+- MySQL database
+- Docker & Docker Compose
+- Nginx reverse proxy
+- GitHub Actions CI/CD
+- AWS EC2 deployment
+
+
+### 🐳 Dockerized Multi-Container Application
+
+- Containerized frontend, backend, and database services
+- Docker networking and volumes
+- Environment-based configuration
+- Nginx reverse proxy setup
+
+
+### 🔄 CI/CD Pipeline Automation
+
+- Automated Docker image build workflow
+- GitHub Actions integration
+- Container image publishing using GHCR
+- Automated deployment workflow
+
+---
+
 ## 🎯 Current Focus
 
 - 🚀 Building cloud-native applications
