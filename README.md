@@ -38,6 +38,16 @@ Rather than collecting technologies, I enjoy building complete deployment workfl
 <img src="https://skillicons.dev/icons?i=angular,spring,mysql" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=apramgupta26&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 - 🚀 Building cloud-native applications
