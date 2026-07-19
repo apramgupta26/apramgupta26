@@ -129,3 +129,19 @@ My current roadmap focuses on strengthening the fundamentals before moving to ad
 - Terraform
 - Jenkins
 - Monitoring & Observability
+
+---
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/apramgupta26">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://github.com/apramgupta26">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+</p>
+
+---
