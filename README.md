@@ -11,7 +11,9 @@ Computer Science Engineering student building cloud-native applications, automat
 - ⚙️ Automating deployments with CI/CD pipelines
 - 🐧 Managing Linux-based environments
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 👨‍💻 About Me
 
@@ -84,7 +86,8 @@ Rather than collecting technologies, I enjoy building complete deployment workfl
 - Container image publishing using GHCR
 - Automated deployment workflow
 
----
+</td>
+<td width="50%" valign="top">
 
 ## 📈 GitHub Activity
 
@@ -163,3 +166,7 @@ My current roadmap focuses on strengthening the fundamentals before moving to ad
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=apramgupta26&color=blue)
+
+</td>
+</tr>
+</table>
