@@ -1,8 +1,13 @@
 # Hi, I'm Apram Gupta 👋
 
-### Computer Science Student • DevOps & Cloud Enthusiast
+### 🚀 DevOps & Cloud Engineering Enthusiast
 
-Building cloud-native applications by combining software development, containerization, cloud infrastructure, and deployment automation.
+Computer Science Engineering student building cloud-native applications, automation workflows, and scalable deployment solutions.
+
+- ☁️ Working with AWS Cloud Infrastructure
+- 🐳 Building containerized applications using Docker
+- ⚙️ Automating deployments with CI/CD pipelines
+- 🐧 Managing Linux-based environments
 
 ---
 
