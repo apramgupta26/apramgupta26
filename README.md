@@ -87,7 +87,7 @@ Rather than collecting technologies, I enjoy building complete deployment workfl
 
 ## 📈 GitHub Activity
 
-[![Apram's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Apram's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=apramgupta26&theme=tokyo-night)](https://github.com/apramgupta26)
 
 ---
 
@@ -158,3 +158,7 @@ My current roadmap focuses on strengthening the fundamentals before moving to ad
 </p>
 
 ---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=apramgupta26&color=blue)
