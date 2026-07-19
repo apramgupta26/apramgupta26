@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Apram Gupta 👋
 
-<!--
-**apramgupta26/apramgupta26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student • DevOps & Cloud Enthusiast
 
-Here are some ideas to get you started:
+Building cloud-native applications by combining software development, containerization, cloud infrastructure, and deployment automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I'm a third-year Computer Science student passionate about understanding how software moves from development to production.
+
+My learning focuses on building real-world projects using Docker, AWS, Linux, GitHub Actions, Spring Boot, Angular, and MySQL.
+
+Rather than collecting technologies, I enjoy building complete deployment workflows—from writing application code to running it on cloud infrastructure.
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building cloud-native applications
+- 🐳 Improving Docker and containerization skills
+- ☁️ Exploring AWS through hands-on deployments
+- ⚙️ Automating deployments with GitHub Actions
+- 🐧 Strengthening Linux fundamentals
+
+---
