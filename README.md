@@ -78,6 +78,16 @@ Rather than collecting technologies, I enjoy building complete deployment workfl
 
 ---
 
+## 🌱 Currently Learning
+
+- Kubernetes
+- Terraform
+- AWS ECS & EKS
+- Monitoring with Prometheus & Grafana
+- Infrastructure as Code (IaC)
+
+---
+
 ## 🎯 Current Focus
 
 - 🚀 Building cloud-native applications
